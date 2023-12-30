@@ -1,12 +1,16 @@
 import React from 'react'
 import HomePage from './components/HomePage'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 const App = () => {
   return (
     <div>
-      <h1>Hello React, I'm Myan Dream</h1>
-      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-      <HomePage />
+      <BrowserRouter>
+        <Routes>
+          <Route exact path='/' element={<HomePage />} />
+        </Routes>
+      </BrowserRouter>
+
     </div>
   )
 }
