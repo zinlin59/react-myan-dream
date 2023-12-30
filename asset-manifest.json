@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-myan-dream/static/css/main.8e4f0dcf.css",
-    "main.js": "/react-myan-dream/static/js/main.369e47ae.js",
+    "main.css": "/react-myan-dream/static/css/main.e543fd07.css",
+    "main.js": "/react-myan-dream/static/js/main.efdb49df.js",
     "index.html": "/react-myan-dream/index.html",
-    "main.8e4f0dcf.css.map": "/react-myan-dream/static/css/main.8e4f0dcf.css.map",
-    "main.369e47ae.js.map": "/react-myan-dream/static/js/main.369e47ae.js.map"
+    "main.e543fd07.css.map": "/react-myan-dream/static/css/main.e543fd07.css.map",
+    "main.efdb49df.js.map": "/react-myan-dream/static/js/main.efdb49df.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e4f0dcf.css",
-    "static/js/main.369e47ae.js"
+    "static/css/main.e543fd07.css",
+    "static/js/main.efdb49df.js"
   ]
 }
