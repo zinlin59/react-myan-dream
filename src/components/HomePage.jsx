@@ -7,7 +7,7 @@ const HomePage = () => {
     return (
         <>
             <Header />
-
+            <Cards />
             <Footer />
         </>
     )
