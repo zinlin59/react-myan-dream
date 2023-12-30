@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import { Form, InputGroup } from 'react-bootstrap'
 import DreamDictionary from '../DreamDictionary.json'
 import Navbar from './Navbar'
 const Search = () => {

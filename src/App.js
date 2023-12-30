@@ -1,7 +1,7 @@
 import React from 'react'
 import HomePage from './components/HomePage'
 import Items from './components/Items'
-import { Search } from './components/Search'
+import Search from './components/Search'
 import { HashRouter, Route, Routes } from 'react-router-dom'
 
 const App = () => {
