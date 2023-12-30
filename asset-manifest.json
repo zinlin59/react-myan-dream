@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-myan-dream/static/css/main.ded1b4c6.css",
+    "main.js": "/react-myan-dream/static/js/main.22d955cf.js",
+    "static/js/787.800ee207.chunk.js": "/react-myan-dream/static/js/787.800ee207.chunk.js",
+    "index.html": "/react-myan-dream/index.html",
+    "main.ded1b4c6.css.map": "/react-myan-dream/static/css/main.ded1b4c6.css.map",
+    "main.22d955cf.js.map": "/react-myan-dream/static/js/main.22d955cf.js.map",
+    "787.800ee207.chunk.js.map": "/react-myan-dream/static/js/787.800ee207.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded1b4c6.css",
+    "static/js/main.22d955cf.js"
+  ]
+}
